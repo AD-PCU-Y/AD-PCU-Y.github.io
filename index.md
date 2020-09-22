@@ -35,7 +35,8 @@
 >  [VR 컨트롤러 관련 참고 영상]w
 >
 >[![유튜브이미지](./img/youtubeImage1.png)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
->
+> 
+> {% files media1.html id="JJVLjTLIW-Y&ab_channel=풍월량" %}  
 >[![유튜브이미지](./img/youtubeImage2.png)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
 >
 > <br><br>
