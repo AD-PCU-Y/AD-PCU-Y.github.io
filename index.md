@@ -18,10 +18,24 @@
 <br><br>
 # [관련 이미지 & 동영상]
 
-![섬 이미지 예시](./img/island1.png)
-![섬 이미지 예시2](./img/island2.png)
-![그래픽 예시](./img/playEx.png)
-![UI 예시](./img/UI_Image2.png)
+## 1. 이미지
+> ![섬 이미지 예시](./img/island1.png)
+> ![섬 이미지 예시2](./img/island2.png)
+> ![그래픽 예시](./img/playEx.png)
+> ![UI 예시](./img/UI_Image2.png)
+
+## 2. 동영상
+>  [VR 컨트롤러 관련 참고 영상]
+>
+>[![유튜브이미지](./img/youtubeImage1.png)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
+>
+>[![유튜브이미지](./img/youtubeImage2.png)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
+>
+> <br><br>
+> [VR 내부시스템 및 서브컨텐츠 참고 영상]
+>
+>[![유튜브이미지](./img/youtubeImage3.png)](https://www.youtube.com/watch?v=JRcF0NqOKBI)
+
 
 <br><br>
 # [대표 이미지]
@@ -74,3 +88,4 @@
 
 <br>
 
+## 4. 기술
