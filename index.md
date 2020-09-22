@@ -27,14 +27,14 @@
 ## 2. 동영상
 >  [VR 컨트롤러 관련 참고 영상]
 >
->[![유튜브이미지](./img/youtubeImage1.png)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
+>[![유튜브이미지](./img/youtubeImage1.PNG)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
 >
->[![유튜브이미지](./img/youtubeImage2.png)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
+>[![유튜브이미지](./img/youtubeImage2.PNG)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
 >
 > <br><br>
 > [VR 내부시스템 및 서브컨텐츠 참고 영상]
 >
->[![유튜브이미지](./img/youtubeImage3.png)](https://www.youtube.com/watch?v=JRcF0NqOKBI)
+>[![유튜브이미지](./img/youtubeImage3.PNG)](https://www.youtube.com/watch?v=JRcF0NqOKBI)
 
 
 <br><br>
