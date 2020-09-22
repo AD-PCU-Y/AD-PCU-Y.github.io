@@ -8,12 +8,16 @@
 
 ### 현실성 
  > 랜덤으로 생성되는 퀘스트와 특정 주기로 방문하는 주민들을 활용하여 마치 내가 실제로 살아가는 느낌을 줌
+
 ### 로그라이크
  > 직접 방문할 수 있는 맵들과 퀘스트와 상호작용을 할 수 있는 것을 이용하여 로그라이크의 분위기를 띔
+
 ### 그래픽 
  > 외주 및 에셋을 활용한 그래픽으로 좀 더 생동감 있게 표현을 할 수 있게 함
+
 ### 생활감
  > 하우징 시스템을 통해 내가 이 세계의 주민이 된 것 처럼 느낄 수 있게 함
+
 
 <br><br>
 # [관련 이미지 & 동영상]
@@ -25,16 +29,16 @@
 > ![UI 예시](./img/UI_Image2.png)
 
 ## 2. 동영상
->  [VR 컨트롤러 관련 참고 영상]
+>  [VR 컨트롤러 관련 참고 영상]w
 >
->[![유튜브이미지](./img/youtubeImage1.PNG)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
+>[![유튜브이미지](./img/youtubeImage1.png)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
 >
->[![유튜브이미지](./img/youtubeImage2.PNG)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
+>[![유튜브이미지](./img/youtubeImage2.png)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
 >
 > <br><br>
 > [VR 내부시스템 및 서브컨텐츠 참고 영상]
 >
->[![유튜브이미지](./img/youtubeImage3.PNG)](https://www.youtube.com/watch?v=JRcF0NqOKBI)
+>[![유튜브이미지](./img/youtubeImage3.png)](https://www.youtube.com/watch?v=JRcF0NqOKBI)
 
 
 <br><br>
